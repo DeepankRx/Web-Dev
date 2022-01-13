@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    width: 10%;
+    margin: 0 auto 0 auto;
+}
+
+div {
+    margin: 0 0 0 0;
+}
+
+.topContainer {
+    background-color: #e4f9f5;
+    /* height: 200px;
+    width: 200px; */
+    
+    padding: 100px;
+    position: relative;
+    padding-bottom:0px;
+    /* margin: 10px; */
+    /* background-color: #24A19C; */
+    border: 10px solid;
+}
+  
+.middleContainer {
+    border: 20px solid;
+    height: 200px;
+    width: 200px;
+    margin-left: 260px;
+    background-color: #FAEEE7;
+}
+
+.bottomContainer {
+    border: 10px solid;
+    background-color: #325288;
+    height: 200px;
+    margin-left:500px;
+    width: 200px;
+}
+.pro
+{
+    text-decoration: underline;
+}
+
+.top-cloud
+{
+    position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+left: 300px;
+bottom:300px;
+}
